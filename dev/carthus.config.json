@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    "./../react/index.js"
+  ],
+  "alias": {
+  },
+  "flag": {
+    "cm": {
+      "f": true
+    }
+  }
+}
